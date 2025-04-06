@@ -8,7 +8,6 @@ This Data Analysis Project provides a detailed analysis of inventory levels and 
 ### Tool
 - SQL &  Power Query For Data cleaning and transformation
 - Power BI 
-- DAX (Calculated Columns & Measures)
 
 
 ![image](https://github.com/user-attachments/assets/81c05bfd-12b9-4e02-abb1-c75ba2891f97)
