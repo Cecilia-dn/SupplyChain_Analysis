@@ -1,0 +1,125 @@
+Supplier_ID,key_id,ProductName,Company,Rating
+S003,1,Clay,Imerys,3.18
+S007,2,Clay,Imerys,4.93
+S003,3,Clay,Imerys,3.6
+S020,4,Clay,Imerys,3.56
+S004,5,Iron Ore,Vale S.A.,3.81
+S019,6,Iron Ore,Vale S.A.,3.13
+S009,7,Silica Sand,Sibelco,3.93
+S015,8,Silica Sand,Sibelco,3.31
+S005,9,Pozzolana,Hess Pumice Products,3.63
+S010,10,Pozzolana,Delta Sand & Gravel Co.,4.91
+S017,11,Pozzolana,"Strategic Materials, Inc.",4.61
+S003,12,Quartz,Calucem,3.68
+S012,13,Quartz,Delta Sand & Gravel Co.,3.42
+S003,14,Quartz,"Strategic Materials, Inc.",4.25
+S011,15,Quartz,Calucem,4.09
+S004,16,Marl,James River Coal Company,4.79
+S006,17,Marl,Hess Pumice Products,3.48
+S014,18,Basalt,Omya AG,4.69
+S010,19,Chalk,Lhoist,4.24
+S001,20,Chalk,KaMin LLC,3.72
+S010,21,Chalk,Almatis GmbH,3.25
+S018,22,Chalk,Martin M,3.03
+S003,23,Calcium Silicate,Promat International,3.55
+S019,24,Calcium Silicate,Promat International,3.54
+S019,25,Calcium Silicate,Promat International,4.99
+S001,26,Tricalcium Silicate,Sibelco,3.55
+S016,27,Tricalcium Silicate,Sibelco,3.68
+S001,28,Tricalcium Silicate,Sibelco,4.92
+S001,29,Tricalcium Silicate,Sibelco,4.3
+S010,30,Tricalcium Silicate,Sibelco,4.02
+S016,31,Tricalcium Silicate,Sibelco,4.69
+S002,32,Carbonate Rock,Sibelco,3.68
+S008,33,Carbonate Rock,Sibelco,4.48
+S015,34,Carbonate Rock,Sibelco,3.23
+S002,35,Carbonate Rock,Sibelco,4.07
+S009,36,Hydrated Lime,Sibelco,3.15
+S009,37,Hydrated Lime,Sibelco,4.44
+S003,38,Hydrated Lime,Sibelco,3.14
+S003,39,Hydrated Lime,Sibelco,4.73
+S007,40,Petroleum Coke,Chevron Corporation,3.18
+S013,41,Refuse-Derived Fuel (RDF),Omya AG,3.55
+S019,42,Refuse-Derived Fuel (RDF),Omya AG,3.57
+S008,43,Refuse-Derived Fuel (RDF),Omya AG,4.11
+S019,44,Refuse-Derived Fuel (RDF),Omya AG,3.95
+S011,45,Refuse-Derived Fuel (RDF),Omya AG,4.65
+S011,46,Refuse-Derived Fuel (RDF),Omya AG,4.97
+S007,47,Sawdust,Omya AG,4.24
+S004,48,Sawdust,Omya AG,3.77
+S007,49,Sawdust,Omya AG,3.27
+S016,50,Sawdust,Omya AG,3.57
+S010,51,Sawdust,Omya AG,4.32
+S007,52,Sawdust,Omya AG,3.92
+S001,53,Cement Kiln Dust (CKD),Omya AG,4.39
+S010,54,Cement Kiln Dust (CKD),Omya AG,3.57
+S009,55,Steel Slag,POSCO,4.43
+S020,56,Steel Slag,POSCO,3.12
+S017,57,Steel Slag,James River Coal Company,3.98
+S009,58,Steel Slag,U.S. Silica Holdings,4.45
+S009,59,Steel Slag,USG Corporation,4.38
+S017,60,Alkali Activators,Vale S.A.,4.5
+S017,61,Alkali Activators,Alcoa Corporation,4.53
+S008,62,Alkali Activators,Sibelco,3.95
+S010,63,Alkali Activators,Boral Limited,4.67
+S010,64,Alkali Activators,Evonik Industries,4.93
+S009,65,Sodium Chloride,"Cargill, Incorporated",4.51
+S020,66,Sodium Chloride,"Cargill, Incorporated",3.64
+S020,67,Sodium Chloride,"Cargill, Incorporated",4.65
+S018,68,Phosphogypsum,The Mosaic Company,4.05
+S001,69,Phosphogypsum,The Mosaic Company,4.71
+S009,70,Phosphogypsum,The Mosaic Company,3.27
+S018,71,Phosphogypsum,The Mosaic Company,4.76
+S011,72,Hydroxypropyl Methylcellulose (HPMC),Ashland Global Holdings,4.79
+S007,73,Hydroxypropyl Methylcellulose (HPMC),Ashland Global Holdings,4.77
+S011,74,Hydroxypropyl Methylcellulose (HPMC),Ashland Global Holdings,4.78
+S019,75,"Accelerators (e.g., Calcium Formate)",Carmeuse,4.75
+S006,76,"Accelerators (e.g., Calcium Formate)",Carmeuse,3.41
+S007,77,"Accelerators (e.g., Calcium Formate)",Carmeuse,4.78
+S019,78,"Accelerators (e.g., Calcium Formate)",Carmeuse,4.39
+S019,79,"Accelerators (e.g., Calcium Formate)",Carmeuse,3.15
+S011,80,Polymer Modifiers,Carmeuse,3.25
+S010,81,Polymer Modifiers,Carmeuse,4.69
+S013,82,Polymer Modifiers,Carmeuse,4.43
+S011,83,Polymer Modifiers,Carmeuse,4.67
+S003,84,Glass Fibers,Owens Corning,4.38
+S002,85,Glass Fibers,Owens Corning,3.29
+S002,86,Synthetic Fibers,BASF,4.78
+S004,87,Synthetic Fibers,Algix LLC,4.59
+S009,88,Synthetic Fibers,Dow Inc.,4.89
+S002,89,Synthetic Fibers,SNF Floerger,4.99
+S002,90,Synthetic Fibers,Merck KGaA,4.66
+S018,91,Synthetic Fibers,USALCO,3.22
+S009,92,Synthetic Fibers,Rio Tinto Borates,4
+S010,93,Synthetic Fibers,Borregaard,4.44
+S006,94,Municipal Solid Waste Ash,Gazprom,3.89
+S013,95,Municipal Solid Waste Ash,Gazprom,4
+S013,96,Municipal Solid Waste Ash,Gazprom,4.82
+S006,97,Municipal Solid Waste Ash,Gazprom,4.66
+S013,98,Sugarcane Bagasse Ash,Baerlocher GmbH,3.11
+S009,99,Sugarcane Bagasse Ash,Wacker Chemie AG,3.28
+S009,100,Sugarcane Bagasse Ash,Green Energy Resources,4.69
+S014,101,Microalgae-Based Additives,Algix LLC,3.48
+S011,102,Microalgae-Based Additives,Algix LLC,4.76
+S010,103,Microalgae-Based Additives,Algix LLC,4.08
+S014,104,Microalgae-Based Additives,Algix LLC,3.6
+S014,105,Microalgae-Based Additives,Algix LLC,4.93
+S002,106,Boric Acid,Rio Tinto Borates,4.15
+S007,107,Boric Acid,Rio Tinto Borates,3.55
+S008,108,Calcium Stearate,Baerlocher GmbH,3.72
+S017,109,Calcium Stearate,Arcosa Lightweight,3.42
+S012,110,Calcium Stearate,Kamenny Vek,4.96
+S012,111,Calcium Stearate,Delta Sand & Gravel Co.,3.01
+S008,112,Calcium Stearate,"Strategic Materials, Inc.",4.68
+S018,113,Calcium Stearate,Calucem,3.8
+S011,114,Calcium Stearate,LC3 Project,4.09
+S008,115,Calcium Stearate,Bamboo Tech Pte. Ltd.,4.16
+S012,116,Zinc Oxide,Green Energy Resources,4.91
+S018,117,Zinc Oxide,Borregaard,4.21
+S020,118,Zinc Oxide,Borregaard,3.75
+S012,119,Zinc Oxide,Borregaard,3.46
+S012,120,Zinc Oxide,Ashland Global Holdings,3.55
+S015,121,Zinc Oxide,Domsjö Fabriker AB,3.55
+S011,122,Cellulose Derivatives,Jungbunzlauer,3.54
+S013,123,Cellulose Derivatives,Perstorp Holding AB,3.9
+S020,124,Cellulose Derivatives,W.R. Grace & Co.,3.99
